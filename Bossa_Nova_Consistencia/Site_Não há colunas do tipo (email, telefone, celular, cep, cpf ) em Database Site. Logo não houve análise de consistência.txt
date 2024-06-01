@@ -1,0 +1,1 @@
+Não há colunas do tipo (email, telefone, celular, cep, cpf ) em Database Site. Logo não houve análise de consistência.txt
